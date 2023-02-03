@@ -1,2 +1,0 @@
-# manicfung.github.io
-website 
