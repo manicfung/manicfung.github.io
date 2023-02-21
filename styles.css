@@ -5,6 +5,7 @@ body {
 
 p {
   align="center" ;
+  display:inline-block;
 }
 
 .mindhouse {
@@ -32,8 +33,4 @@ p {
   margin:20px;
   border:20px;
   padding:20px;
-}
-
-div{
-  display:inline-block;
 }
