@@ -6,3 +6,8 @@ body {
 p {
   align="center" ;
 }
+
+p.mindhouse {
+   background-color: blue
+}
+
