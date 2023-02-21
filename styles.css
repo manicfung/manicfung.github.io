@@ -34,6 +34,6 @@ p {
   padding:20px;
 }
 
-.wordcards{
-  display:inline;
+wordcards{
+  display:inline-block;
 }
