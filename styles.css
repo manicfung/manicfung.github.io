@@ -15,5 +15,7 @@ p {
 .skills {
    background-color: red;
    color: white;
+   width:200px;
+   height:200px;
 }
 
