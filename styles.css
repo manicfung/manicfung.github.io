@@ -33,3 +33,7 @@ p {
   border:20px;
   padding:20px;
 }
+
+.wordcards{
+  display:inline;
+}
