@@ -20,6 +20,15 @@ p {
   color: blue;
 }
 
+.lifespan {
+  padding:20px;
+  width:250px;
+  height:250px;
+  border: 1px solid black;
+  color: blue;
+}
+
+
 .money{
   margin:20px;
   border:20px;
