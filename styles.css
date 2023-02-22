@@ -35,12 +35,12 @@ p {
   padding:20px;
 }
 
-p{
+.love{
   padding:20px;
   width:250px;
   height:250px;
   border: 1px solid black;
-  color: blue;
+  color: pink;
 }
 
 .center {
