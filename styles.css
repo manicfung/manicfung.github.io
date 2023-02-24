@@ -1,6 +1,6 @@
 body {
   font-family: TimesNewRoman;
-  background-color: white;
+  background-color: black;
 }
 
 p {
@@ -10,7 +10,7 @@ p {
 
 .mindhouse {
    font-weight: bold;
-   color: black;
+   color: white;
 }
 
 .skills {
@@ -48,7 +48,7 @@ p {
   width:250px;
   height:250px;
   border: 1px solid black;
-  color: blue;
+  color: green;
 }
 
 .center {
