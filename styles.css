@@ -15,8 +15,6 @@ p {
 
 .skills {
   padding:20px;
-  width:250px;
-  height:250px;
   border: 1px solid black;
   color: blue;
   background-color:white;
@@ -24,8 +22,6 @@ p {
 
 .lifespan {
   padding:20px;
-  width:250px;
-  height:250px;
   border: 1px solid black;
   color: blue;
   background-color:white;
@@ -39,8 +35,6 @@ p {
 
 .love{
   padding:20px;
-  width:250px;
-  height:250px;
   border: 1px solid black;
   color: blue;
   background-color:white;
@@ -48,8 +42,6 @@ p {
 
 .trippy{
   padding:20px;
-  width:250px;
-  height:250px;
   border: 1px solid black;
   color: green;
   background-color:white;
