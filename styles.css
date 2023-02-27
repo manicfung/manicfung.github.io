@@ -19,6 +19,7 @@ p {
   height:250px;
   border: 1px solid black;
   color: blue;
+  background-color:white;
 }
 
 .lifespan {
@@ -27,6 +28,7 @@ p {
   height:250px;
   border: 1px solid black;
   color: blue;
+  background-color:white;
 }
 
 .money{
@@ -41,6 +43,7 @@ p {
   height:250px;
   border: 1px solid black;
   color: blue;
+  background-color:white;
 }
 
 .trippy{
@@ -49,6 +52,7 @@ p {
   height:250px;
   border: 1px solid black;
   color: green;
+  background-color:white;
 }
 
 .center {
