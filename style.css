@@ -1,0 +1,36 @@
+nav{
+    display:inline-block;
+    float:right;
+    background-color:blue;
+    margin:10px;
+    border:10px;
+    color:white;
+}
+section{
+    float:left;
+    width: 500px;
+    height: 200px;
+    padding: 5px;
+}
+article{
+    float:left;
+    display:block;
+}
+
+p{
+  font-size:95%;
+}
+
+body {
+ height: 2000px;
+ font-family: 'Playfair Display';
+}
+
+.header {
+ position: fixed;
+ width: 100%;
+}
+.body{
+   padding:5%;
+   width:60%;
+}
