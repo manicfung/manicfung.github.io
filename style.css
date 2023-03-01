@@ -16,6 +16,9 @@ article{
     float:left;
     display:block;
     border-style: inset;
+    width:100%;
+    margin:10px;
+    padding-left:5px;
 }
 
 p{
