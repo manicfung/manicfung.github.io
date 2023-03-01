@@ -15,6 +15,7 @@ section{
 article{
     float:left;
     display:block;
+    border-style: inset;
 }
 
 p{
