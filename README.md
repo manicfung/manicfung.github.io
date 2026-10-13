@@ -1,5 +1,4 @@
 # manicfung.github.io
-<!DOCTYPE html>
 <html lang="en" >
 <body>
 <header>
