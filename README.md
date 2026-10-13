@@ -1,22 +1,6 @@
 # manicfung.github.io
 <!DOCTYPE html>
 <html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>manicfung make stuffz</title>
-  <link rel="stylesheet" href="./style.css">
-
-</head>
-<body>
-<!-- partial:index.partial.html -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	  <meta charset="UTF-8">
-	  <title>manicfung make stuffz</title>
-    <link href='https://fonts.googleapis.com/css?family=Playfair Display' rel='stylesheet'>
-</head>
-
 <body>
 <header>
 </header>
